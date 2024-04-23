@@ -94,7 +94,9 @@ nav i{
 }
 
 @media(max-width:700px){
-
+    .header{
+        z-index:99;
+    }
     nav h1{
         font-size: 1.5rem;
     }
