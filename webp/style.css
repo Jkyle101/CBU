@@ -119,7 +119,7 @@ nav i{
         top: 0;
         right: 0;
         text-align: left;
-        z-index: 7;
+        z-index: 1;
         transition: 1s;
     }
     nav i{
